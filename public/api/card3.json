@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "link": "#",
+    "cardname": "따뜻한 목도리의 마법!",
+    "comment": "사단법인 필라멘트복지법인",
+    "money": "342,100원",
+    "percent": "9%",
+    "imgpath": "q5.jpeg"
+  },
+  {
+    "id": 2,
+    "link": "#",
+    "cardname": "어르신에게 깨끗한 도시락을 선물해 주세요!",
+    "comment": "범안종합사회복지관",
+    "money": "842,600원",
+    "percent": "9%",
+    "imgpath": "q6.jpeg"
+  },
+  {
+    "id": 3,
+    "link": "#",
+    "cardname": "텅 빈 밥상에 행복과 건강을 채워주세요",
+    "comment": "굿실버재가노인돌봄센터",
+    "money": "544,003원",
+    "percent": "16%",
+    "imgpath": "q7.jpeg"
+  }
+]

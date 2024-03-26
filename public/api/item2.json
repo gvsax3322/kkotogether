@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "link": "#",
+    "comment": "내가 만약 운동선수라면?",
+    "detail": "29,836명 참여",
+    "imgpath": "a1.png"
+  },
+  {
+    "id": 2,
+    "link": "#",
+    "comment": "나의 삶의 전략은?",
+    "detail": "32,218명 참여",
+    "imgpath": "a2.png"
+  },
+  {
+    "id": 3,
+    "link": "#",
+    "comment": "나의 자존감 점수는?",
+    "detail": "13,505명 참여",
+    "imgpath": "a3.png"
+  },
+  {
+    "id": 4,
+    "link": "#",
+    "comment": "나에게 맞는 행복 처방전은?",
+    "detail": "39,763명 참여",
+    "imgpath": "a4.png"
+  }
+]
